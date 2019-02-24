@@ -1,0 +1,134 @@
+Talk: Practical Creativity, Raph Koster
+https://www.youtube.com/watch?v=zyVTxGpEO30&t=636s
+
+https://www.raphkoster.com
+https://www.raphkoster.com/games/presentations/practical-creativity/
+
+
+- games can be categorized into a hiearchy
+    game - reskin/clone - ...
+
+- differentiation by game "mechanics"
+    - abstract concepts of games
+- build a library of game mechanics
+- simpler games
+
+- creativity is a process that can be made to happen
+    - low cost of entry
+    - low cost of failure
+
+    => more money typically leads to less creativity
+
+- game Patterns
+    - book "Game Design Patterns"
+    - book "Advanced Game Mechanics"
+
+- "Context replacement"
+    - creativity = taking pattern out if its "natural" context and put it into another one
+
+example:
+- A die is an interface
+    - is a probability device
+  - but can also be
+    - hit point counter
+    - countdown device
+    - state indicator
+    - indicator of a max value
+    - building brick
+
+- regular card deck vs uno deck
+
+another example:
+- deck of cards
+    -> house of cards
+    -> fortune telling
+    -> card can be used to cover smth up
+
+- Add a statistic
+    = "...have fireball 6 against a bigger orc..."
+    - simplest means of innovation
+
+BUT: adding a NEW stat can imply a new rule -> can be a new game variant
+
+ - don't just add statistics
+    - add one and take one away
+        - find interesting mix
+
+- change dimension
+    * add dimension
+    - simplest fighter game: rock paper scissor
+
+    - 2 dim -> infinite scroll -> 3d
+
+- making familiar things "unfamiliar"/new against
+
+- Force constraints
+    - creative tools
+
+- add a verb/ goal
+    - take shooter game - add rescuing -> new game
+    - take platformer - add "fast" -> speedrun
+
+- add many different goals
+    -> get roles in a game  
+        (think goalie vs shooter)
+
+- change input mappings
+    - swap analog input for binary one
+    - swap simple input for complex one
+    - swap instant action for timed one
+    - add controls to unitary action
+
+- controls are games within games
+
+- change topologies
+    - asteroids -> played on a "doughnut" space
+    - snakes & ladders -> non-euclidean space + wormholes
+
+- mashups of games (A meets B)
+
+- simulate using an oddity
+    - simulate territory with cards?
+    - sim... health with territory?
+    ...
+
+- Transplant skins
+    - change the metaphor
+
+- merge a mechanics
+    - visit every node on the graph (pacman)
+    - hide location information -> secrets in levels
+
+- ART 
+    - ludonarrative dissonance
+    - what is the game about?
+
+- top down: 
+- bottom up: system first
+
+- meeting in the middle
+    - romance novel
+        - two people with flaws
+            - the other person helps to overcome things
+            - non-competetive 
+----
+- Life habits
+    -> creativity as a life habits
+    - game-a-week.com
+    - writing a new song every day
+
+- be messy
+- allow some noise in the environment
+- Excercise!
+    - stand up once an hour at least
+- statis is bad
+- get sleep! 
+
+- take notes by hand - not typing
+- take risks 
+    - don't fear failure
+
+- think about users not yourself
+    - play the movie in your head
+
+- read voraciously!
